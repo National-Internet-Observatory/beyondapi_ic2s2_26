@@ -1,12 +1,12 @@
-# Beyond APIs: ICWSM 2026 Tutorial Website
+# Beyond APIs: IC2S2 2026 Tutorial Website
 
-This repository contains the website for the "Beyond APIs: Collecting Online Activity Data for Research using the National Internet Observatory" tutorial at ICWSM 2026.
+This repository contains the website for the "Beyond APIs: Collecting Online Activity Data for Research using the National Internet Observatory" tutorial at IC2S2 2026.
 
-The website is live at https://national-internet-observatory.github.io/beyondapi_icwsm26
+The website is live at https://national-internet-observatory.github.io/beyondapi_ic2s2_26
 
 ## Overview
 
-This is a static website for the ICWSM 2026 tutorial that introduces the National Internet Observatory (NIO), an alternative data collection framework and infrastructure designed to help researchers study online behavior. The website provides information about the tutorial, including:
+This is a static website for the IC2S2 2026 tutorial that introduces the National Internet Observatory (NIO), an alternative data collection framework and infrastructure designed to help researchers study online behavior. The website provides information about the tutorial, including:
 
 - Tutorial abstract and description
 - Prerequisites for participation
